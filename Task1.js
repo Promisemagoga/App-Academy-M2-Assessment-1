@@ -7,5 +7,5 @@ const institution = "I am a student at IT varsity(Mtn business app academy)"
 console.log(institution)
 
 //Github Username
-const GithubUsername = "My Github username is Promise Magoga"
+const GithubUsername = "My Github username is Promisemagoga"
 console.log(GithubUsername)
