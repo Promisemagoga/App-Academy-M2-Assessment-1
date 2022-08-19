@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Frijole';
+}
+.wrapper{
+    width: 700px;
+    height: 600px;
+    background-color: yellow;
+    margin: 0 auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+}
+.dice_image{
+    width: 400px;
+    height: 400px;
+}
+.dice_image img{
+    width: 100%;
+    height: 100%;
+}
+.heading{
+    font-size: 4em;
+}
+.button button{
+    font-size: 2em;
+}
